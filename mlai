@@ -1,0 +1,8 @@
+- README.md
+- linear_regression/
+  - linear_regression.py
+- logistic_regression/
+  - logistic_regression.py
+- decision_tree/
+  - decision_tree.py
+- ...
